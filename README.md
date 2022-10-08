@@ -12,6 +12,8 @@
 
 ### URL
 
+无浏览器缓存
+
 ```
 https://powered-by-vercel.api.soraharu.com/powered-by-vercel.svg
 ```
@@ -19,31 +21,19 @@ https://powered-by-vercel.api.soraharu.com/powered-by-vercel.svg
 jsDelivr
 
 ```
-https://cdn.jsdelivr.net/gh/yanranxiaoxi/Powered-by-Vercel/powered-by-vercel.svg
+https://cdn.jsdelivr.net/gh/yanranxiaoxi/Powered-by-Vercel@1.0.0/powered-by-vercel.svg
 ```
 
 ### Markdown
 
 ```markdown
-[![Powered by Vercel](https://powered-by-vercel.api.soraharu.com/powered-by-vercel.svg)](https://vercel.com/)
-```
-
-jsDelivr
-
-```markdown
-[![Powered by Vercel](https://cdn.jsdelivr.net/gh/yanranxiaoxi/Powered-by-Vercel/powered-by-vercel.svg)](https://vercel.com/)
+[![Powered by Vercel](https://cdn.jsdelivr.net/gh/yanranxiaoxi/Powered-by-Vercel@1.0.0/powered-by-vercel.svg)](https://vercel.com/)
 ```
 
 ### HTML Tag
 
 ```html
-<img src="https://powered-by-vercel.api.soraharu.com/powered-by-vercel.svg" alt="Powered by Vercel" width="212" height="44" />
-```
-
-jsDelivr
-
-```html
-<img src="https://cdn.jsdelivr.net/gh/yanranxiaoxi/Powered-by-Vercel/powered-by-vercel.svg" alt="Powered by Vercel" width="212" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/yanranxiaoxi/Powered-by-Vercel@1.0.0/powered-by-vercel.svg" alt="Powered by Vercel" width="212" height="44" />
 ```
 
 ## 📜 开源许可
